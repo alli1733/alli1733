@@ -1,12 +1,9 @@
 ### Hi there 👋, my name is Aleksandr
 #### I am Full Stack Engineer
-I am Full Stack Engineer
 
 <a href="https://www.linkedin.com/in/aleksandr-lipkov-259195190/">
-  <img align="left" alt="Aleksandr linkedin" width="22px" src="https://www.linkedin.com/in/aleksandr-lipkov-259195190/" />
+  <img align="left" alt="Aleksandr linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<br />
-<br />
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
