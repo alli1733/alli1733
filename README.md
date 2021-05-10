@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Aleksandr
 #### I am Full Stack Engineer
-![I am Full Stack Engineer](http://mealaway.tech/Logo.png)
+![I am Full Stack Engineer]
 
 **Hello**. Everyone.
 I am Full stack developer.
