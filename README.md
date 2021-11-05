@@ -15,7 +15,6 @@ I have rich experiences in website and web application, hybrid application devel
 
 - 💻 Skills: JavaScript, Blockchain, Node.js, Vue/React/React Native, Angular, Swift,  Linux, C#, MongoDB, MySQL
 - 💬 Ask me about anything, I am happy to help;
-- 🔭 I’m currently working on project **MealAway**🍔 
 
 
 **Languages and Tools:**  
